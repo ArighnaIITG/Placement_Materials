@@ -1,2 +1,4 @@
 # Placement_Materials
-Placement preparation resources
+
+This repository contains all the important articles of coding questions, and other resources for placement preparation.
+Best of luck !!
