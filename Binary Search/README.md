@@ -11,4 +11,5 @@ This repository contains all the important articles and Leetcode questions of bi
 5. Search Insert Position - [Question](https://leetcode.com/problems/search-insert-position/) [Solution](https://leetcode.com/problems/search-insert-position/discuss/360445/C%2B%2B-efficient-solution-uses-lower-bound)
 6. Arranging coins [Question](https://leetcode.com/problems/arranging-coins/) [Solution](https://leetcode.com/problems/arranging-coins/discuss/360458/C%2B%2B-0-ms-solution-that-beats-100-solutions-in-time)
 7. Heaters [Question](https://leetcode.com/problems/heaters/) [Solution](https://leetcode.com/problems/heaters/discuss/95887/C%2B%2B-clean-solution-with-explanation)
-8. 
+8. sqrt(x) [Question](https://leetcode.com/problems/sqrtx/) [Solution](https://leetcode.com/problems/sqrtx/discuss/360487/C%2B%2B-solution-beats-100-in-both-time-and-memory)
+9. Fisrt bad version [Question](https://leetcode.com/problems/first-bad-version/) [Solution](https://leetcode.com/problems/first-bad-version/discuss/360490/C%2B%2B-simple-binary-search-beats-100-in-time)
