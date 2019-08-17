@@ -16,5 +16,7 @@ This repository contains all the important articles and Leetcode questions of bi
 
 ## LeetCode Medium
 
-1. Time- Based Key Value Store - [Question](https://leetcode.com/problems/time-based-key-value-store/) [Solution](https://leetcode.com/problems/time-based-key-value-store/discuss/342501/C-PLUS-PLUS-MAP-WITH-BINARY-SEARCH-LET'S-GO!) (lower_bound wasn't working with it, and also sorting of `vector<pair<int,string>>` didn't seem to work. That was quite strange !!
+1. Time- Based Key Value Store - [Question](https://leetcode.com/problems/time-based-key-value-store/) [Solution](https://leetcode.com/problems/time-based-key-value-store/discuss/342501/C-PLUS-PLUS-MAP-WITH-BINARY-SEARCH-LET'S-GO!) 
+**NOTE** --`lower_bound` wasn't working with it, and also sorting of `vector<pair<int,string>>` didn't seem to work. That was quite strange !!
+
 2. 
