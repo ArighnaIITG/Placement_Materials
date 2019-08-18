@@ -16,7 +16,8 @@ This repository contains all the important articles and Leetcode questions of bi
 
 ## LeetCode Medium
 
-1. Time- Based Key Value Store - [Question](https://leetcode.com/problems/time-based-key-value-store/) [Solution](https://leetcode.com/problems/time-based-key-value-store/discuss/342501/C-PLUS-PLUS-MAP-WITH-BINARY-SEARCH-LET'S-GO!) 
+1. Time- Based Key Value Store - [Question](https://leetcode.com/problems/time-based-key-value-store/) [My Solution](https://leetcode.com/problems/time-based-key-value-store/discuss/342501/C-PLUS-PLUS-MAP-WITH-BINARY-SEARCH-LET'S-GO!) 
 **NOTE** --`lower_bound` wasn't working with it, and also sorting of `vector<pair<int,string>>` didn't seem to work. That was quite strange !!
-
-2. 
+2. Minimum Size SubArray Sum - [Question](https://leetcode.com/problems/minimum-size-subarray-sum/) [My Solution](https://leetcode.com/problems/minimum-size-subarray-sum/discuss/361291/C%2B%2B-two-pointer-solution-O(n))
+3. Search a 2D matrix - [Question](https://leetcode.com/problems/search-a-2d-matrix/) [My Solution](https://leetcode.com/problems/search-a-2d-matrix/discuss/361314/C%2B%2B-pointer-solution-beats-94-solutions) [Better Solution](https://leetcode.com/problems/search-a-2d-matrix/discuss/26220/Don't-treat-it-as-a-2D-matrix-just-treat-it-as-a-sorted-list)
+4. 
